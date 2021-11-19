@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}body{background-color:#0e0e0e;color:#00c700;font-family:Verdana,Geneva,Tahoma,sans-serif;font-size:small}:after,:before{box-sizing:border-box}#html{padding:10px;word-break:break-all}.pic{left:50%;position:fixed;top:30px;transform:translateX(-50%)}.pic:after,.pic:before{content:"";display:block;position:absolute}@media (max-width:500px){#html{font-size:small;height:60vh;overflow:auto;padding:20px}.picWrapper{height:40vh}.pic{position:relative;right:0;top:20px}}
+/*# sourceMappingURL=index.6f3be4ef.css.map */
